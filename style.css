@@ -86,14 +86,17 @@ input[type="tel"] {
     border-radius: 5px;
 }
 
+/* Button styling */
 button {
     background-color: #007BFF;
     color: #fff;
     border: none;
-    padding: 10px 20px;
+    padding: 12px 25px;
     border-radius: 5px;
     cursor: pointer;
-    margin: 10px 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
 }
 
 button:hover {
