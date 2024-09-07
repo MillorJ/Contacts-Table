@@ -1,6 +1,8 @@
+/* Reset styles for consistency */
 body, h1, h2, h3, p, ul, li, button, input, form {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
